@@ -8,6 +8,8 @@ Magento with db manager running easily in just one build / run.
 - AMP (Apache (2.0) / Php (5.5.9) / Mysql)
 - Supervisor [to keep them up and running all time]
 
+# [Freelance magento developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
+
 ### How to Run using docker hub
 This is simple and one command that does it all
 > docker run -d -p 80:80 -p 2222:22 ilampirai/magentoone
